@@ -1,0 +1,35 @@
+# ACME Corporation - 2024 Financial & Operational Highlights
+
+## Overview
+ACME Corporation is a leading provider of enterprise data analytics and cloud workflow solutions. This report summarizes the financial results for the first half of fiscal year 2024.
+
+## Q1 2024 Financial Performance
+- Total Revenue: $120.0 million
+- Subscription Revenue: $96.0 million (80% of total)
+- Professional Services Revenue: $24.0 million
+- Operating Expenses: $75.0 million
+- Research & Development (R&D): $30.0 million
+- Sales & Marketing (S&M): $32.0 million
+- General & Administrative (G&A): $13.0 million
+- Net Income: $45.0 million
+- Headcount at end of Q1: 1,250 full-time employees
+
+## Q2 2024 Financial Performance
+- Total Revenue: $150.0 million
+- Subscription Revenue: $127.5 million (85% of total)
+- Professional Services Revenue: $22.5 million
+- Operating Expenses: $82.5 million
+- Research & Development (R&D): $35.0 million
+- Sales & Marketing (S&M): $34.5 million
+- General & Administrative (G&A): $13.0 million
+- Net Income: $67.5 million
+- Headcount at end of Q2: 1,400 full-time employees
+
+## Geographic Performance
+- North America accounted for 62% of consolidated H1 revenue.
+- EMEA (Europe, Middle East, Africa) contributed 26%.
+- APAC (Asia-Pacific) contributed 12%.
+
+## Strategic Highlights
+In May 2024, ACME completed the acquisition of DataForge AI for $45 million in cash, expanding its natural language processing capabilities.
+The company also launched CloudStream v3, reducing processing latencies by 40%.

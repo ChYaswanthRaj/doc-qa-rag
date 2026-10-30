@@ -1,0 +1,25 @@
+# ACME Corporation - Employee Business Travel & Expense Policy (v3.2)
+
+## 1. Scope and Objective
+This policy outlines the principles and reimbursement procedures for business-related travel and expenses incurred by ACME Corporation employees.
+
+## 2. Flight & Rail Booking Guidelines
+- All domestic flights must be booked in Economy Class at least 14 days in advance through the corporate travel portal (Concur).
+- International flights exceeding 7 hours in flight duration qualify for Premium Economy upon written approval by the Department VP.
+- Business Class is only permitted for intercontinental flights exceeding 10 hours with approval from the Chief Financial Officer (CFO).
+
+## 3. Lodging and Hotel Rates
+- Standard hotel room rates must not exceed $220 per night in Tier 1 cities (New York, San Francisco, London, Tokyo) and $160 per night in all other locations, excluding taxes.
+- Incidental expenses such as hotel gym access or minibar items are non-reimbursable.
+
+## 4. Daily Meals & Incidentals (Per Diem)
+- The daily maximum meal allowance is $75 per day for domestic travel.
+  - Breakfast: up to $15
+  - Lunch: up to $25
+  - Dinner: up to $35
+- For international travel, the daily maximum meal allowance is $100 per day.
+- Itemized receipts are mandatory for any individual meal expense exceeding $25. Alcoholic beverages are non-reimbursable unless part of an authorized client dinner.
+
+## 5. Ground Transportation & Mileage
+- Personal vehicle business mileage is reimbursed at $0.67 per mile.
+- Employees are encouraged to use rideshare services (standard tier Uber/Lyft) or public transit for airport transfers.
