@@ -7,7 +7,7 @@ sys.modules['rag'] = rag
 eval_mod = types.ModuleType('eval')
 eval_mod.__path__ = [os.path.abspath('.')]
 sys.modules['eval'] = eval_mod
-    import os
+import os
 import streamlit as st
 from dotenv import load_dotenv
 
