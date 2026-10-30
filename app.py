@@ -317,7 +317,7 @@ with st.sidebar:
 
     model_name = st.selectbox(
         "Gemini Model",
-        options=["gemini-1.5-flash", "gemini-1.5-pro", "gemini-2.0-flash"],
+        options=["gemini-2.5-flash", "gemini-1.5-pro", "gemini-2.0-flash"],
         index=0,
     )
 
