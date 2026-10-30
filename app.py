@@ -1,4 +1,15 @@
-import os
+import sys, types
+try:
+    import loader, index, qa, agent
+    rag = types.ModuleType('rag')
+    rag.loader, rag.index, rag.qa, rag.agent = loader, index, qa, agent
+    sys.modules['rag'] = rag
+    sys.modules['rag.loader'] = loader
+    sys.modules['rag.index'] = index
+    sys.modules['rag.qa'] = qa
+    sys.modules['rag.agent'] = agent
+except ImportError:
+    passimport os
 import streamlit as st
 from dotenv import load_dotenv
 
