@@ -9,7 +9,8 @@ try:
     sys.modules['rag.qa'] = qa
     sys.modules['rag.agent'] = agent
 except ImportError:
-    passimport os
+    pass
+    import os
 import streamlit as st
 from dotenv import load_dotenv
 
